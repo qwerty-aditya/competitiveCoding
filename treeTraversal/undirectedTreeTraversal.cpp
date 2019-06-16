@@ -1,5 +1,9 @@
+
+//the majority part of this program has been copied from
+//https://www.geeksforgeeks.org/find-paths-given-source-destination/
+//my canges make this program work for undirected graphs(trees)
 #include<iostream> 
-#include <list> 
+#include <list>
 using namespace std; 
   
 // A directed graph using adjacency list representation 
